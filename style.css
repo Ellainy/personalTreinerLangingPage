@@ -278,3 +278,23 @@ footer {
         font-size: 2.8rem;
     }
 }
+
+@media (max-width: 768px) {
+    #fichas {
+        text-align: center;
+    }
+    
+    #fichas .section-title.text-start {
+        text-align: center !important;
+    }
+    
+    #fichas .btn-ficha-intro {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    
+    #fichas .text-cinza {
+        text-align: left;
+    }
+}
