@@ -41,6 +41,6 @@ ramework CSS para grid e componentes responsivos
 
 
 ## 💻 Desenvolvido por
-[@cavaleirografico](https://github.com/cavaleirografico)
+[@cavaleirografico](https://www.instagram.com/cavaleiro.grafico?igsh=MXFna2k3emRtOHdjaw==)
 
 
